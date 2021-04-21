@@ -1,0 +1,66 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+    
+        {
+            "type": "java",
+            "name": "Launch with Arguments Prompt",
+            "request": "launch",
+            "mainClass": "",
+            "args": "${command:SpecifyProgramArgs}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise02",
+            "request": "launch",
+            "mainClass": "Homework01.Exercise02",
+            "projectName": "SS 2021 Code_642ce30a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise03",
+            "request": "launch",
+            "mainClass": "Homework01.Exercise03",
+            "projectName": "SS 2021 Code_642ce30a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise04",
+            "request": "launch",
+            "mainClass": "Homework01.Exercise04",
+            "projectName": "SS 2021 Code_642ce30a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise01",
+            "request": "launch",
+            "mainClass": "Homework02.Exercise01",
+            "projectName": "SS 2021 Code_642ce30a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise02(1)",
+            "request": "launch",
+            "mainClass": "Homework02.Exercise02",
+            "projectName": "SS 2021 Code_642ce30a"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise03(1)",
+            "request": "launch",
+            "mainClass": "Homework02.Exercise03",
+            "projectName": "SS 2021 Code_642ce30a"
+        },
+        
+    ]
+}
